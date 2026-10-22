@@ -73,10 +73,10 @@ No frameworks. No build tools. Just clean code.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/syedsameer-xtech/syedsameer-xtech.github.io.git
+git clone https://github.com/auguxt/auguxt.github.io.git
 
 # 2. Go to folder
-cd syedsameer-xtech.github.io
+cd auguxt.github.io
 
 # 3. Open in browser
 open index.html
@@ -88,14 +88,14 @@ open index.html
 ## 📁 Project Structure
 
 ```
-syedsameer-xtech.github.io/
-├── index.html      # Page structure
-├── style.css       # All styling & animations
-├── script.js       # Starfield, quotes, game logic
-└── Logo_0.png      # Profile/logo image
+auguxt.github.io/
+├── index.html              # Everything: structure + inline <style> + inline <script>
+├── Logo_0.png              # Profile/logo image
+├── Syed_Sameer_Resume.pdf  # Downloadable resume
+└── CNAME                   # Custom domain → auguxt.dev
 ```
 
-Simple. Maintainable. Easy to customize.
+Single self-contained `index.html` (styles + JS inlined). Easy to customize.
 
 ---
 
@@ -134,7 +134,7 @@ Simple. Maintainable. Easy to customize.
 |----------|------|
 | 📧 Email | syedsameer.xtech@gmail.com |
 | 💼 LinkedIn | linkedin.com/in/syed-sameer-dev |
-| 🐙 GitHub | github.com/syedsameer-xtech |
+| 🐙 GitHub | github.com/auguxt |
 
 ---
 
